@@ -1,0 +1,6 @@
+Recursion is calling a function within itself or from outside.
+
+Time Complexity = Total calls * Work done in each call
+Space Complexity = Total calls * Space used in each call
+
+So TC and SC of "Array is sorted or not" is in "isSortedRecur.cpp" file
